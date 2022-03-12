@@ -1,0 +1,32 @@
+body {
+border:8px   solid;
+margin-top:15px;
+margin-Left:15px;
+margin-right:15px;
+border-color:#0b4026;
+background:#5dde8d;
+}
+
+p{
+margin-left:40px;
+margin-right:40px;
+text-align:justify;
+font-size:25px;
+}
+
+img{
+border-style:dashed;
+border-width:8px;
+border-color:#15FF8C  #1E90FF #20B2AA #FF00FF;
+	border-radius:40px;	
+			
+} 
+
+h1{
+				color:#7f2a30;
+}				
+h2{
+				color:#5e1846;
+}
+
+
